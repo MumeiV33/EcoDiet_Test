@@ -8,7 +8,7 @@
 
 <body>
 	<h1><strong>Création de compte</strong></h1>
-	<form method="post" action="./createAccount.php">
+	<form method="post" action="./createaccount_traitement.php">
 		<p><label for="pseudonyme_or_email">Entrer un pseudonyme ou une adresse email: </label><br>
 			<input type="text" name="pseudonyme_or_email" value="Test" required />
 		</p>
